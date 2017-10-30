@@ -11,3 +11,7 @@ node_modules
 *.temp
 *~
 *.bak
+
+# Файлы ES5
+dist
+public/dist
