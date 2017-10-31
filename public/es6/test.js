@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 // средство es6: блок "левых" объявлений
 const sentences = [
     { subject: 'JavaScript', verb: 'is', object: 'great' },
